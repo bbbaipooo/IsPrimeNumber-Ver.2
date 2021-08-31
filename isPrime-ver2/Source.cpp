@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//bug121
 int isPrime(int a)
 {
 	for (int b = 2; b < a; b++) {
